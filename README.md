@@ -23,7 +23,7 @@ sudo fdisk -l
 
 sudo fdisk -l /dev/sdc
 
-6. Borrar todas las particiones del “usb” en terminal.
+6. **Borrar todas las particiones del “usb” en terminal.**
 
 unmount
 fdiks /dev/sdc
@@ -33,7 +33,7 @@ fdisk -l /dev/sdc
 
 
 
-7. Crear en el “usb” tres particiones físicas y una extendida en terminal.
+7.** Crear en el “usb” tres particiones físicas y una extendida en terminal.**
 
 fdisk /dev/sdc
 n - nueva particion
@@ -47,16 +47,16 @@ Primer Sector
 Ultimo Sector
 w
 
-8. Crear una partición dentro de la partición extendida del “usb” en terminal.
+8. **Crear una partición dentro de la partición extendida del “usb” en terminal.**
 
 fdisk /dev/sdc
 l - particion lógica
 w
 
-9. En la interfaz gráfica de la aplicación disks, borrar las particiones para que sólo exista una
-partición que abarque toda la “usb”.
+9. **En la interfaz gráfica de la aplicación disks, borrar las particiones para que sólo exista una
+partición que abarque toda la “usb”.**
 
 
-10. Copiar un archivo .iso de distribución live de linux a la usb por medio del comando "dd".
+10. **Copiar un archivo .iso de distribución live de linux a la usb por medio del comando "dd".**
 
 
