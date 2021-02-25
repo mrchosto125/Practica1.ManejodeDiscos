@@ -25,6 +25,7 @@ sudo fdisk -l
 5. **Conectar una memoria usb (“usb”) y mostrar su tabla de particiones en terminal (hacer respaldo antes porque se va a borrar toda la información dentro del usb en pasos posteriores).**
 
 sudo fdisk -l /dev/sdc
+![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/7.png "Im4")
 
 6. **Borrar todas las particiones del “usb” en terminal.**
 
