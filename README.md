@@ -26,6 +26,7 @@ sudo fdisk -l
 
 sudo fdisk -l /dev/sdc
 ![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/7.png "Im4")
+![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/9.png "Im5")
 
 6. **Borrar todas las particiones del “usb” en terminal.**
 
