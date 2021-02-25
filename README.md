@@ -16,6 +16,7 @@ sudo unmount [direccion]
 3. **Enlistar la información de los dispositivos de bloque conectados aunque no estén montados en terminal.**
 
 lsblk
+![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/6.png "Im2")
 
 4. **Mostrar la tabla de particiones del disco donde está instalado el sistema operativo en terminal.**
 
