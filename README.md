@@ -11,9 +11,7 @@
 sudo mount [dispositivo] [destino]
 sudo unmount [direccion]
 
-![alt text][logo]
-
-[logo]:(https://github.com/daerksun/Practica1.ManejodeDiscos/Imagenes/1.png "Im1")
+![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/1.png "Im1")
 
 3. **Enlistar la información de los dispositivos de bloque conectados aunque no estén montados en terminal.**
 
