@@ -15,12 +15,13 @@ sudo unmount [direccion]
 
 3. **Enlistar la información de los dispositivos de bloque conectados aunque no estén montados en terminal.**
 
-lsblk
-![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/6.png "Im2")
+lsblk!
+[alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/2.png "Im2")
 
 4. **Mostrar la tabla de particiones del disco donde está instalado el sistema operativo en terminal.**
 
 sudo fdisk -l
+![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/5.png "Im3")
 
 5. **Conectar una memoria usb (“usb”) y mostrar su tabla de particiones en terminal (hacer respaldo antes porque se va a borrar toda la información dentro del usb en pasos posteriores).**
 
