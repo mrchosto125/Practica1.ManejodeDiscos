@@ -35,7 +35,11 @@ fdiks /dev/sdc
 d - delete
 w - write
 fdisk -l /dev/sdc
-
+![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/10.png "Im")
+![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/11.png "Im")
+![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/12.png "Im")
+![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/13.png "Im")
+![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/14.png "Im")
 
 
 7.** Crear en el “usb” tres particiones físicas y una extendida en terminal.**
