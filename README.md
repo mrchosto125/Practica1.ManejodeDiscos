@@ -35,7 +35,7 @@ fdiks /dev/sdc
 d - delete
 w - write
 fdisk -l /dev/sdc
-![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/10.png "Im")
+![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/10.jpeg "Im")
 ![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/11.png "Im")
 ![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/12.png "Im")
 ![alt text](https://github.com/daerksun/Practica1.ManejodeDiscos/blob/main/Imagenes/13.png "Im")
